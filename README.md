@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @Ramyasri
-- 👀 I’m interested in learning skills
-- 🌱 I’m currently learning artificial inteligence and data science course
-- 💞️ I’m looking to collaborate on this field
-- 📫 you can reach me through this account
-- 💻 coding lover
